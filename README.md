@@ -54,7 +54,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Rohit Sharma](https://github.com/rohit-94)	<br> <img src="https://github.com/rohit-94.png" width="100" height="100">						   | India		             | C++                            |                                                                                               |
 | [Shashwat Garg](https://github.com/Shashwat-Garg) <br> <img src="https://github.com/Shashwat-Garg.png" width="100" height="100">   | India         	       | Python                         |                                                                                               |
 | [Ankit Garg](https://github.com/ankitgargsma) <br> <img src="https://github.com/ankitgargsma.png" width="100" height="100">        | India                 | C++                            | 
-              |
+              
 | [Nicholas Chambers](https://github.com/ntchambers) <br> <img src="https://github.com/ntchambers.png" width="100" height="100">     | United States 	       | C                              |                                                                                               |
 | [Abhishek Mishra](https://github.com/karma200020)	<br> <img src="https://github.com/karma200020.png" width="100" height="100">		 | India		             | Java, C++                      |                                                                                               |
 | [Abhishek Saxena](https://github.com/5AbhishekSaxena) <br> <img src="https://avatars1.githubusercontent.com/u/19958130?s=460&v=4" width="100" height="100">                        | India             |  Java, cpp                              |
